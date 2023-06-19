@@ -9,12 +9,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100yeony&layout=compact"><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true">
-
-<img src="https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100yeony)](https://github.com/100yeony/github-readme-stats)
-
 <!-- 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=100yh)](https://solved.ac/100yh)
 
