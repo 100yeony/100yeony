@@ -4,7 +4,7 @@
 - 풀스택 개발자를 목표로 성장하고 있는 백엔드 엔지니어입니다.
 - 데이터 엔지니어에 관심이 있습니다.
 
-####언어 및 도구
+### 언어 및 도구
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100yeony&layout=compact"><br><br>
