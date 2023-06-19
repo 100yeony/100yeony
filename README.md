@@ -4,12 +4,13 @@
 - 풀스택 개발자를 목표로 성장하고 있는 백엔드 엔지니어입니다.
 - 데이터 엔지니어에 관심이 있습니다.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100yeony&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true">
+####언어 및 도구
+<img src="https://img.shields.io/badge/python-3776AB?style=뱃지모양&logo=python&logoColor=white"/></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100yeony)](https://github.com/100yeony/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100yeony&layout=compact"><br><br>
 
 <!-- 
+<img src="https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true&theme=radical)
 -->
 
