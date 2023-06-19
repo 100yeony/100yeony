@@ -9,6 +9,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=100yeony&layout=compact"><br><br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true">
+
 <!-- 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=100yh)](https://solved.ac/100yh)
 
