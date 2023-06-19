@@ -2,6 +2,9 @@
 
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/100yeony/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true&theme=radical)
+
 <!--
 **100yeony/100yeony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,8 +13,7 @@
 
 Here are some ideas to get you started:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/100yeony/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100yeony&show_icons=true&theme=radical)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
