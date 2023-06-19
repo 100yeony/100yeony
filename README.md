@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&fontSize=90" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=200&section=header&fontSize=90" />-->
 
 ### 반갑습니다 👋
 - 풀스택 개발자를 목표로 성장하고 있는 백엔드 엔지니어입니다.
