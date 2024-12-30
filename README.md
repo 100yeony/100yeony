@@ -25,4 +25,7 @@
 <!-- 
 배지 꾸미기 링크
 https://github.com/Ileriayo/markdown-badges
+
+커밋 시간 통계
+https://jjang-j.tistory.com/60
 -->
